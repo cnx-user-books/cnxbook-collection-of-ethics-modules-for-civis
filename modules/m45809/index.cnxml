@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Online Resources in Ethics Across the Curriculum</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45809</md:content-id>
+  <md:title>Online Resources in Ethics Across the Curriculum</md:title>
+  <md:abstract>This module, designed for the collection of ethics across the curriculum modules for CIVIS, provides an outline of ethics resources available to STEM instructors. Some resources complement resources found in the CIVIS collection while others help those interested in exploring different dimensions in ethics instruction.</md:abstract>
+  <md:uuid>32a683b0-195a-4f5c-8835-5f0600af17a2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://scholarworks.umass.edu/esence/" strength="3">Ethics in Science and Engineering National Clearing House</link>
+      <link url="http://www.temoa.info/" strength="3">Temoa</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://openseminar.org/ethics/" strength="3">Open Seminar for Research Ethics</link>
+      <link url="http://nationalethicscenter.com/" strength="3">Ethics Core</link>
+      <link url="http://www.onlineethics.org/" strength="3">Online Ethics</link>
+      <link url="http://ethics.sandiego.edu/" strength="3">Ethics Update</link>
+      <link url="http://ethics.iit.edu/eelibrary/" strength="3">Ethics Education Library</link>
+      <link url="http://www.uvu.edu/ethics/seac/" strength="3">Teaching Ethics (from SEAC)</link>
+      <link url="http://plato.stanford.edu/" strength="3">Standford Encyclopedia of Philosophy</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="eip-768"><title>Introduction</title><para id="eip-559">The following list gives a guide to those who are looking for resources helpful to integrating ethics materials into STEM (science, technology, engineering, and mathematics) courses.  Consider it something akin to an annotated, online bibliography.</para><list id="eip-674"><item>The Open Seminar provides a short online course to graduate students in research ethics.  The core is a series of self-guiding short readings followed by helpful comprehension tests.  The creators also provide other pedagogical materials that instructors can use to build more elaborate courses in research ethics.  For example, there is a wonder role-play where students act as members of an IRB considering the Milgram experiments into social behavior as a new research project.  Users can explore as guests, students, or instructors.</item>
+<item>Ethics Core is positioning itself as a clearing house for online resources in research ethics.  It has pedagogical materials, short essays, video presentations, and links to other resources in research ethics.  It is also preparing an extensive online encyclopedia covering topics in research ethics.  Under development are features that allow users to provide feedback on content </item>
+<item>Online ethics is a fine collection of cases, pedagogical materials, essays, and syllabi covering most areas in practical and professional ethics such as engineering, business, computer, and research ethics.  Many of these items are translated into Spanish.  The case collection is impressive and these are usefully arranged.  An especially helpful feature are the profiles of moral exemplars.</item>
+<item>ESENCE (Ethics in Science and Engineering National Clearinghouse has several useful items that will eventually be absorbed into other websites.  Among useful features are final reports for NSF ethics projects, articles published in conference proceedings, and pedagogical materials</item>
+<item>Temoa is an interesting and exciting project that is housed at the Monterrey Institute of Technology in Mexico.  Students and professors have combed Open Educational Resources Repositories and have selected modules worth sharing.  They rank these modules (1 to 5), publish comments, and document classes in which they are being used.  This is a good source of meta-data on the ethics resources collected under their project.</item>
+<item>The Standford Encyclopedia of Philosophy is an outstanding resource on topics in philosophical ethics as well as summaries of major thinkers in philosophical ethics.</item>
+<item>Teaching Ethics is the journal put forth by the Society for Ethics Across the Curriculum.  Utah Valley State University has kindly served as host for publishing online the issues of this journal.  Articles discuss pedagogical issues, solicit commentaries on cases, and present creative ideas for teaching ethics in different contexts.  This is an outstanding source for those in STEM areas looking for advice on introducing micro-ethics insertions into their classes.</item>
+<item>The Ethics Education Library is an impressive repository of cases, pedagogical materials, and published pedagogical essays in practical and professional ethics.  Affiliated with the Center for the Study of Ethics in the Professions (Illinois Institute of Technology) this source also includes that center's outstanding compilation of professional and corporate codes of ethics.  This website provides users with virtually unlimited with a wide variety of ethics across the curriculum modules.</item>
+</list></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
